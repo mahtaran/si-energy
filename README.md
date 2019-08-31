@@ -31,7 +31,7 @@ A huge thanks to DeflatedPickle for creating the original version of this, which
 | Galacticraft Joules   | gJ           | Galacticraft          | 0.625               |
 | Joules                | J            | Mekanism              | 0.4                 |
 | Minecraft Joules      | MJ           | BuildCraft            | 10                  |
-| Redstone Flux         | RF           | Thermal Expansion 3   | 1                   |
+| Redstone Flux         | RF           | Redstone Flux         | 1                   |
 | Tesla                 | T            | TESLA                 | 1                   |
 | Micro Infinity        | µI           | Ender IO              | 2                   |
  ----------------------- -------------- ----------------------- ---------------------
