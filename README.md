@@ -1,6 +1,6 @@
 # SI Energy
 
-The Intermod System of Energy Units
+The Intermod System of Energy Units (*Système international d'unités d'énergie*)
 
 Yet another one of these mods. But why should you choose for this one?
 Well, this mod does some things I have not seen in any other mods yet:
